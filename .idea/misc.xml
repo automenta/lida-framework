@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/DestinationSol" value="5832186777092" />
+        <entry key="$USER_HOME$/MiniJCompiler" value="2912738115496" />
+        <entry key="$USER_HOME$/TeraNUI" value="4374138214691" />
+        <entry key="$USER_HOME$/Terasology" value="18954600864216" />
+        <entry key="$USER_HOME$/TerasologyPrime" value="14584337427016" />
+        <entry key="$USER_HOME$/encog-java-core" value="2911602710408" />
+        <entry key="$USER_HOME$/galaxy" value="2912263696276" />
+        <entry key="$USER_HOME$/javers" value="11667692655552" />
+        <entry key="$USER_HOME$/mlnposs" value="2919404408288" />
+        <entry key="$USER_HOME$/opennars" value="14548044011876" />
+        <entry key="$USER_HOME$/sphinx4" value="7321474789228" />
+        <entry key="/tmp/naturally-selected-2d" value="7296311481592" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="9-ea" project-jdk-type="JavaSDK" />
+</project>
